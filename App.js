@@ -4,7 +4,7 @@ import { Pressable, Text, View,Switch, TextInput, Image, ImageBackground } from 
 import styles from './globalStyles';
 
 // http://conversorfacil.com.br/calcular/peso-ideal
-import imagem1 from './assets/men.jpg'
+import imagem1 from './assets/miles.jpg'
 import imagem2 from './assets/woman.jpg'
 
 export default function App() {
