@@ -5,7 +5,7 @@ import styles from './globalStyles';
 
 // http://conversorfacil.com.br/calcular/peso-ideal
 import imagem1 from './assets/miles.jpg'
-import imagem2 from './assets/woman.jpg'
+import imagem2 from './assets/drew.jpg'
 
 export default function App() {
   const [altura, setAltura] = useState('');
